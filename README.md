@@ -11,7 +11,7 @@ How to run NanoNet from google Colaboratory: (to change)
     2. Add protein sequence
 
 
-### Pre-trained Models: <a name="available-models you can use"></a>
+### Pre-trained Models you can use: <a name="available-models you can use"></a>
 
 | `esm.pretrained.`           | #layers | #params | Dataset | Embedding Dim |  Model URL (automatically downloaded to `~/.cache/torch/hub/checkpoints`) |
 |---------------------|---------|-------------|---------|---------------|-----------------------------------------------------------------------|
