@@ -1,15 +1,18 @@
 # NanoFoldLM
 <p align="center"><img src="https://github.com/YaadLuria/NanoFoldLM/blob/main/_dd28a06e-d775-49f9-9248-669f9e36cdee.jpeg" height="250"/></p>
+
 HUJI's 3D Data Processing in Structural Biology Hackathon (group 3, project 2 "The language model folder")
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YaadLuria/NanoFoldLM/blob/main/TheLanguageModelFolder.ipynb)
 
 
+
 How to run NanoFoldLM from google Colaboratory: (to change)
 
-    1. Open the Colab notebook (NanoFoldLM.ipynb, link above).
-    2. Add protein sequence
+    1. Open the Colab notebook NanoFoldLM.ipynb, and connect to GPU for faster run
+    2. Add protein sequence and choose embedding size
+    3. You can also compare to a solved pdb structure
 
 
 ### Pre-trained Models you can use: <a name="available-models you can use"></a>
