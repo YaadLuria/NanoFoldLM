@@ -1,4 +1,5 @@
 # NanoFoldLM
+<p align="center"><img src="https://github.com/YaadLuria/NanoFoldLM/blob/main/_dd28a06e-d775-49f9-9248-669f9e36cdee.jpeg" height="250"/></p>
 HUJI's 3D Data Processing in Structural Biology Hackathon (group 3, project 2 "The language model folder")
 
 
