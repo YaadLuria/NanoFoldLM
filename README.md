@@ -8,7 +8,7 @@ HUJI's 3D Data Processing in Structural Biology Hackathon (group 3, project 2 "T
 
 
 
-How to run NanoFoldLM from google Colaboratory: (to change)
+How to run NanoFoldLM from google Colaboratory:
 
     1. Open the Colab notebook NanoFoldLM.ipynb, and connect to GPU for faster run
     2. Add protein sequence and choose embedding size
